@@ -1,0 +1,3 @@
+commit 1 - create file feature_1.txt in new branch feature_1
+commit 2 - modified feature_1
+commit 3 - modified feature_1
