@@ -1,2 +1,3 @@
 commit 1 - create file feature_2.txt in new branch feature_2
 commit 2 - modified file feature_2.txt
+commit 3 - modified file feature_2.txt
