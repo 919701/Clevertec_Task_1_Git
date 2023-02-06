@@ -1,2 +1,4 @@
 commit 1 -create file release.txt in new branch release
 commit 2 - modified file release.txt
+commit 3 - modified file release.txt
+commit 4 - modified file release.txt
