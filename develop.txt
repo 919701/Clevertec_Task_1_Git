@@ -9,3 +9,4 @@ create file feature_1.txt
 >>>>>>> feature_1
 
 commit 7 - marge with release
+commit 8 - marge with release
