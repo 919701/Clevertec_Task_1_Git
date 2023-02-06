@@ -1,2 +1,3 @@
 commit 1: File create in develop branch
-commit 2: Modification file develop.txt
+commit 2: modification file develop.txt
+commit 3: modified file develop.txt
