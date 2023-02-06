@@ -6,6 +6,11 @@ touche develop.txt
 notepad file.txt
 git add .
 git commit -am "feat: Creat file develop.txt"
+<<<<<<< HEAD
 =======
 create new branch with master to hotfixes
 >>>>>>> hotfixes
+=======
+
+new branch feature_2
+>>>>>>> feature_2
