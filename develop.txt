@@ -7,3 +7,10 @@ commit 4 - modified file develop.txt
 
 create file feature_1.txt
 >>>>>>> feature_1
+<<<<<<< HEAD
+=======
+
+commit 7 - marge with release
+commit 8 - marge with 
+commit 9 - marge with feature_1
+>>>>>>> e9d46e6 (feat: Merge intodevelop)
