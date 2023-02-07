@@ -12,3 +12,5 @@ create new branch with master to hotfixes
 
 commit 2 - merge with hotfixes
 commit 3 - merge with release
+
+THE END.
